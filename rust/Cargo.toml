@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "fibonacci",
-    "Leetcode"
+    "Leetcode",
+    "DSA_CXX_TEST"
 ]

@@ -2,5 +2,6 @@
 members = [
     "fibonacci",
     "Leetcode",
-    "DSA_CXX_TEST"
+    "DSA_CXX_TEST",
+    "Vector"
 ]
